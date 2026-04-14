@@ -1,10 +1,10 @@
-✈️ Airport Shortest Path Finder
+# ✈️ Airport Shortest Path Finder
 
 A web-based application that finds the shortest route between two airports using **Dijkstra's algorithm**, built with Django and MySQL.
 
 ---
 
-🚀 Features
+## 🚀 Features
 
 - **Shortest Path Finder** — Calculates the optimal route between any two airports using Dijkstra's algorithm
 - **Airport Management** — Add, view, and delete airports from the system
@@ -12,7 +12,8 @@ A web-based application that finds the shortest route between two airports using
 - **Web Interface** — Clean and user-friendly interface built with Django templates
 
 ---
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 | Layer       | Technology        |
 |-------------|-------------------|
@@ -23,7 +24,7 @@ A web-based application that finds the shortest route between two airports using
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 ```
 airport-shortest-path/
@@ -68,7 +69,7 @@ airport-shortest-path/
    ```bash
    pip install -r requirements.txt
    ```
-
+   
 4. **Run migrations**
    ```bash
    python manage.py makemigrations
@@ -86,3 +87,4 @@ airport-shortest-path/
 2. **Add Routes** — Define connections between airports with a distance or cost value
 3. **Find Shortest Path** — Select a source and destination airport; the app applies Dijkstra's algorithm to return the shortest route and total distance
 
+---
