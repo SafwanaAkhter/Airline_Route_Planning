@@ -4,7 +4,7 @@ A web-based application that finds the shortest route between two airports using
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Shortest Path Finder** — Calculates the optimal route between any two airports using Dijkstra's algorithm
 - **Airport Management** — Add, view, and delete airports from the system
@@ -13,7 +13,7 @@ A web-based application that finds the shortest route between two airports using
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer       | Technology        |
 |-------------|-------------------|
@@ -24,7 +24,7 @@ A web-based application that finds the shortest route between two airports using
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 airport-shortest-path/
@@ -43,7 +43,7 @@ airport-shortest-path/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 
@@ -81,7 +81,7 @@ airport-shortest-path/
    python manage.py runserver
    ```
 
-## 🗺️ How It Works
+##  How It Works
 
 1. **Add Airports** — Enter airport names/codes into the system
 2. **Add Routes** — Define connections between airports with a distance or cost value
